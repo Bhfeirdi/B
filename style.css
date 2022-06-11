@@ -9,7 +9,7 @@
     height: 100px;
     background-color: black;
     position: relative;
-    top: 200px;
+    top: 300px;
     animation: jump 500ms infinite;
 }
 
