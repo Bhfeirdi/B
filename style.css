@@ -12,10 +12,6 @@
     top: 300px;
 }
 
-.animate {
-    animation: jump 500ms;
-}
-
 @keyframes jump{
     0%{top: 150px;}
     50%{top: 100px}
