@@ -1,3 +1,8 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
 #side_scroller {
     width: 500px;
     height: 300px;
