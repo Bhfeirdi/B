@@ -10,7 +10,10 @@
     background-color: black;
     position: relative;
     top: 300px;
-    animation: jump 500ms infinite;
+}
+
+.animate {
+    animation: jump 500ms;
 }
 
 @keyframes jump{
