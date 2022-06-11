@@ -26,3 +26,8 @@
     top: 200px;
     left: 470px;
 }
+
+@keyframes block{
+    0%{left: 470px;}
+    100%{left: -40px;}
+}
