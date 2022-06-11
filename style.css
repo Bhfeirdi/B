@@ -12,6 +12,12 @@
     top: 200px;
 }
 
+@keyframes jump{
+    0%{top: 150px;}
+    50%{top: 100px}
+    100%{top: 150px}
+}
+
 #block {
     width: 30px;
     height: 30px;
