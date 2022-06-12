@@ -4,10 +4,6 @@
     overflow-x: hidden;
 }
 
-.body {
-  background-image: url('kuma-sushi-bar-sushi-1000x501-1.jpg');
-}
-
 .game{
     width: 500px;
     height: 200px;
